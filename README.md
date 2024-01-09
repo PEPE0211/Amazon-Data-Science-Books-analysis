@@ -16,7 +16,7 @@ Data science is an ever-evolving field, and this dataset provides valuable insig
 
 ## Contents
 
-- `data/`: This directory contains the dataset file `amazon_data.csv`.
+- `data/`: This directory contains the dataset file `final_book_dataset_kaggle2.csv`.
 - `notebooks/`: This directory includes Jupyter notebooks used for data analysis and visualization.
 - `results/`: This directory stores output images, plots, and word clouds generated during the analysis.
 
