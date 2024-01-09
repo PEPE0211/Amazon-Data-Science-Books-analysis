@@ -27,4 +27,9 @@ To replicate this analysis, you can follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/amazon-data-science-books.git
+   git clone https://github.com/PEPE0211/Amazon-Data-Science-Books-analysis.git
+
+You can install the requirements using: 
+```
+pip install -r requirements.txt
+```
