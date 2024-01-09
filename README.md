@@ -29,7 +29,7 @@ To replicate this analysis, you can follow these steps:
    ```bash
    git clone https://github.com/PEPE0211/Amazon-Data-Science-Books-analysis.git
 
-You can install the requirements using: 
-```
-pip install -r requirements.txt
-```
+1. You can install the requirements using: 
+   ```
+   pip install -r requirements.txt
+   ```
